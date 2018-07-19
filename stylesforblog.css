@@ -1,10 +1,10 @@
-body{background-color:plum;color:darkcyan;font-family:Verdana;font-size:150%;
+body{background-color:plum;color:darkcyan;font-family:Verdana;font-size:110%;
 }
 
 p {
     border: 2px solid white;
-    outline: #4CAF50 solid 10px;
+    outline: #4CAF50 solid 5px;
     margin: auto;    
-    padding: 20px;
+    padding: 10px;
     text-align: center;
 }
