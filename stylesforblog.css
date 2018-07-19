@@ -1,4 +1,4 @@
-body{background-color:plum;color:darkcyan;font-family:Verdana;font-size:110%;
+body{background-color:plum;color:yellow;font-family:Verdana;font-size:110%;
 }
 
 p {
@@ -6,5 +6,8 @@ p {
     outline: #4CAF50 solid 5px;
     margin: auto;    
     padding: 10px;
+    outline-style:dotted;
     text-align: center;
+    outline-color:hotpink
+    
 }
